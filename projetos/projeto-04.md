@@ -353,7 +353,7 @@ O código deverá impedir que manter um botão pressionado faça o sistema avan�
 
 ## 📦 Entrega
 
-Entregue:
+Entregue até o dia 10/11 às 23:59:
 
 1. link compartilhável da simulação no tinkercad;
 2. código completo e organizado em arquivo com extensão .cpp;
